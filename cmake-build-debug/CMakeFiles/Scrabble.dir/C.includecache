@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/Scrabble/main.c
+stdio.h
+-
+string.h
+-
+
